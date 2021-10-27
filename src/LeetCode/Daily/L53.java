@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Daily;
 
 public class L53 {
     public int maxSubArray(int[] nums) {
