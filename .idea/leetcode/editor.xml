@@ -39,6 +39,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[335]路径交叉.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[335]路径交叉.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[335]路径交叉.java" />
+              <option name="questionId" value="335" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[407]接雨水 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[407]接雨水 II.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[407]接雨水 II.java" />
+              <option name="questionId" value="407" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[496]下一个更大元素 I.java">
           <value>
             <LeetcodeEditor>
@@ -54,6 +72,24 @@
               <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[53]最大子序和.md" />
               <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[53]最大子序和.java" />
               <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[575]分糖果.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[575]分糖果.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[575]分糖果.java" />
+              <option name="questionId" value="575" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[869]重新排序得到 2 的幂.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[869]重新排序得到 2 的幂.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[869]重新排序得到 2 的幂.java" />
+              <option name="questionId" value="900" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -126,6 +162,42 @@
               <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 008]和大于等于 target 的最短子数组.md" />
               <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 008]和大于等于 target 的最短子数组.java" />
               <option name="questionId" value="1000242" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 009]乘积小于 K 的子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 009]乘积小于 K 的子数组.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 009]乘积小于 K 的子数组.java" />
+              <option name="questionId" value="1000244" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 010]和为 k 的子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 010]和为 k 的子数组.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 010]和为 k 的子数组.java" />
+              <option name="questionId" value="1000246" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 011]0 和 1 个数相同的子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 011]0 和 1 个数相同的子数组.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 011]0 和 1 个数相同的子数组.java" />
+              <option name="questionId" value="1000247" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 089]房屋偷盗.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 089]房屋偷盗.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 089]房屋偷盗.java" />
+              <option name="questionId" value="1000245" />
             </LeetcodeEditor>
           </value>
         </entry>
