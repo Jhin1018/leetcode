@@ -3,6 +3,15 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[1218]最长定差子序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[1218]最长定差子序列.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[1218]最长定差子序列.java" />
+              <option name="questionId" value="1330" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[224]基本计算器.java">
           <value>
             <LeetcodeEditor>
@@ -189,6 +198,33 @@
               <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 011]0 和 1 个数相同的子数组.md" />
               <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 011]0 和 1 个数相同的子数组.java" />
               <option name="questionId" value="1000247" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 012]左右两边子数组的和相等.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 012]左右两边子数组的和相等.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 012]左右两边子数组的和相等.java" />
+              <option name="questionId" value="1000248" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 013]二维子矩阵的和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 013]二维子矩阵的和.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 013]二维子矩阵的和.java" />
+              <option name="questionId" value="1000249" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 014]字符串中的变位词.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/doc/content/[剑指 Offer II 014]字符串中的变位词.md" />
+              <option name="path" value="$USER_HOME$/Documents/LeetCode/leetcode/editor/cn/[剑指 Offer II 014]字符串中的变位词.java" />
+              <option name="questionId" value="1000250" />
             </LeetcodeEditor>
           </value>
         </entry>
